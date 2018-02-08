@@ -1,7 +1,7 @@
 # Site settings
 title: W-lab Blog
 SEOTitle: W-lab的博客 | BY W-lab
-header-img: img/post-bg-desk.jpg
+header-img: 
 email: weixcai@yahoo.com
 description: "ongoing"
 keyword: "w-lab"
@@ -12,7 +12,7 @@ github_repo: "" # you code repository
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Goals determine what you going to be!"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar:       # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
